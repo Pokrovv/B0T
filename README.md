@@ -12,4 +12,4 @@ You also need the latest version of discord.js (or v12)
 
 ## Credits:
 
-@[@lambdagg](https://github.com/lambdagg)
+[@lambdagg](https://github.com/lambdagg) - https://syslambda.fr
