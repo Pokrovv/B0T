@@ -8,3 +8,8 @@ You also need the latest version of discord.js (or v12)
 ## Installation:
 
 ``npm install (for installing all packages)`` 
+
+
+## Credits:
+
+@lambdagg
