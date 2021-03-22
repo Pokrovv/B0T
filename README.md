@@ -7,8 +7,11 @@ We can supply help if needed, just contact [@OhSkilouxe](https://github.com/OhSk
 
 ## Install and run
 ``git clone https://github.com/OhSkilouxe/B0T.git``
+
 ``cd B0T``
+
 ``npm install``
+
 ``node .``
 
 ## Credits:

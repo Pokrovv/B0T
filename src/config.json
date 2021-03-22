@@ -1,0 +1,29 @@
+{
+    "port": 3000,
+    "prefix": "!",
+    "guildid": "0",
+    "counters": {
+        "discord": {
+            "total": {
+                "channel": "736285261465387068",
+                "expression": "Total members: {{count}}"
+            },
+            "online": {
+                "channel": "736285345921892422",
+                "expression": "Online members: {{count}}"
+            }
+        },
+        "minecraft": {
+            "ip": "play.hypixel.net",
+            "channel": "736285626621755534",
+            "expression": "Online on MC: {{count}}"
+        }
+    },
+    "channels": {
+        "welcome": "731586627385950230",
+        "suggestions": "0"
+    },
+    "roles": {
+        "member": "736922991182741514"
+    }
+}
