@@ -1,0 +1,31 @@
+{
+  "name": "b0t",
+  "version": "0.0.0",
+  "description": "Open-Source discord bot in DiscordJS v12 for many usages.",
+  "main": "src/main.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OhSkilouxe/B0T.git"
+  },
+  "keywords": [
+    "discordjs",
+    "djs",
+    "bot",
+    "skilouxe",
+    "lambdagg"
+  ],
+  "author": "@OhSkilouxe, @lambdagg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OhSkilouxe/B0T/issues"
+  },
+  "homepage": "https://github.com/OhSkilouxe/B0T#readme",
+  "dependencies": {
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}

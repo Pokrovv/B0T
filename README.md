@@ -1,15 +1,17 @@
 # B0T
-Open-Source discord bot in discord.js 12 for many usages
+Open-Source discord bot in DiscordJS v12 for many usages.
 
-## 
-You will need FFMPEG if you want to use the music module.
-You also need the latest version of discord.js (or v12)
+## Important
+You will need FFMPEG if you want to use the music module (refer to NEED.txt).
+We can supply help if needed, just contact [@OhSkilouxe](https://github.com/OhSkilouxe) or [@lambdagg](https://github.com/lambdagg).
 
-## Installation:
-
-``npm install (for installing all packages)`` 
-
+## Install and run
+```
+git clone https://github.com/OhSkilouxe/B0T.git
+cd B0T
+npm install
+node .
+```
 
 ## Credits:
-
 [@lambdagg](https://github.com/lambdagg) - https://syslambda.fr
