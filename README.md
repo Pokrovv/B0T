@@ -14,4 +14,4 @@ node .
 ```
 
 ## Credits:
-[@lambdagg](https://github.com/lambdagg) - https://syslambda.fr
+[@lambdagg](https://github.com/lambdagg) - https://lambdagg.xyz
